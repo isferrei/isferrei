@@ -1,4 +1,4 @@
-### Hi there, I'm Isabela 
+### Hi there, I'm Isabela Carvalho
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -38,8 +38,8 @@ Welcome to my profile! I am a Front-end developer and a designer entusiast.
 
 <br><br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=48cae4&text_color=ffddd2&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300">
-
+<img src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=48cae4&text_color=fff&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300"/>
+<br>
 ![](https://komarev.com/ghpvc/?username=isferrei&color=006bed)
 
 

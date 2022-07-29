@@ -38,11 +38,12 @@ Welcome to my profile! I am a Front-end developer and a designer entusiast.
 
 <br><br>
 
-![isferrei](https://github-readme-stats.vercel.app/api/top-langs/?username=isferrei&hide=html&layout=compact=true&theme=Dracula)
-
-
+<div align="left">
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=5ce1e6&text_color=fff&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300"/>
-<br>
+</div>
 
 
 

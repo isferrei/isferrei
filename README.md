@@ -1,6 +1,6 @@
 ### Hi there, I'm Isabela Carvalho
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/isferrei/isferrei/main/undraw_dev_focus_re_6iwt.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 Welcome to my profile! I am a Front-end developer and a designer entusiast.
@@ -17,30 +17,33 @@ Welcome to my profile! I am a Front-end developer and a designer entusiast.
 
 <p align="left">🦄<b>Front-end skills:</b></p>
  <div> 
-  <img blank='' src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img blank='' src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img blank='' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img blank='' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img blank='' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img blank='' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img blank='' src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img blank='' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img blank='' src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img blank='' src="https://img.shields.io/badge/React-2f3e46?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img blank='' src="https://img.shields.io/badge/Vue.js-2f3e46?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img blank='' src="https://img.shields.io/badge/JavaScript-2f3e46?style=for-the-badge&logo=javascript&logoColor=gold" />
+  <img blank='' src="https://img.shields.io/badge/TypeScript-2f3e46?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img blank='' src="https://img.shields.io/badge/HTML5-2f3e46?style=for-the-badge&logo=html5&logoColor=orange"/>
+  <img blank='' src="https://img.shields.io/badge/CSS3-2f3e46?style=for-the-badge&logo=css3&logoColor=green" />
+  <img blank='' src="https://img.shields.io/badge/Sass-2f3e46?style=for-the-badge&logo=sass&logoColor=FD406A" />
+  <img blank='' src="https://img.shields.io/badge/Bootstrap-2f3e46?style=for-the-badge&logo=bootstrap&logoColor=a65ce6" />
+  <img blank='' src="https://img.shields.io/badge/Tailwind_CSS-2f3e46?style=for-the-badge&logo=tailwind-css&logoColor=53cbcf" />
 </div>
 
 <br><br>
 
 <p align="left">⚡<b>Back-end skills:</b></p>
 <div> 
-  <img blank='' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img blank='' src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img blank='' src="https://img.shields.io/badge/PHP-2f3e46?style=for-the-badge&logo=php&logoColor=B49cec" />
+  <img blank='' src="https://img.shields.io/badge/Node.js-2f3e46?style=for-the-badge&logo=node.js&logoColor=40FD61" />
 </div>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=48cae4&text_color=fff&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300"/>
+![isferrei](https://github-readme-stats.vercel.app/api/top-langs/?username=isferrei&hide=html&layout=compact=true&theme=Dracula)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=5ce1e6&text_color=fff&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300"/>
 <br>
-![](https://komarev.com/ghpvc/?username=isferrei&color=006bed)
+
 
 
 <!--

@@ -14,7 +14,7 @@ Welcome to my profile! I am a Front-end developer and a designer entusiast.
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
   <a href="https://drive.google.com/file/d/11FOGkvi34SbL-pjf9SySHBfLoAd2_ZJv/view" alt="Resume" target="_blank">
-  <img src="https://img.shields.io/badge/-My resume-%25d366?style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/badge/-Resume-f50057?style=flat-square"/>
   </a>
 
 <br><br>

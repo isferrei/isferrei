@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/isferrei/isferrei/main/undraw_dev_focus_re_6iwt.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-Welcome to my profile! I am a Front-end developer and a designer entusiast.
+Welcome to my profile! I am a Front-end developer and a designer enthusiast.
 <p align="left">
  📫<b>How to reach me:</b>
 </p>

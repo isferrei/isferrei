@@ -40,16 +40,6 @@ Welcome to my profile! I am a Front-end developer and a designer enthusiast.
   <img blank='' src="https://img.shields.io/badge/Node.js-2f3e46?style=for-the-badge&logo=node.js&logoColor=40FD61" />
 </div>
 
-<br><br>
-
- 
-<div display='flex' flexDirection='row'gap='20px' width='100%'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=dracula"/>
- 
-<img src="https://github-readme-stats.vercel.app/api?username=isferrei&show_icons=true&title_color=5ce1e6&text_color=fff&icon_color=48cae4&bg_color=2f3e46&cache_seconds=2300"/>
-</div>
-
-
 
 <!--
 **isferrei/isferrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
